@@ -3,3 +3,4 @@ Welcome to Cornell Tech's Spinout page. These resourses are intended for Cornell
 * [Startup Awards](https://github.com/cornelltech/Startup-Resources/wiki/Startup-Awards)
 * [Spinout Clinic](https://github.com/cornelltech/Startup-Resources/wiki/Spinout-Clinic)
 * [Coworking Space](https://github.com/cornelltech/spinouts/wiki/Cornell-Tech-Coworking-Space)
+* [Internationals Spinout Guide](https://github.com/cornelltech/spinouts/wiki/Internationals-spinout-guide)
